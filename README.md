@@ -1,1 +1,2 @@
 # Weather-App-
+A responsive weather application that provides real-time weather updates for any city using the OpenWeatherMap API. Built with HTML, CSS, and JavaScript, the app features a user-friendly interface where users can enter a city name to view the current temperature, weather conditions, and descriptions. It includes error handling for invalid inputs and ensures a smooth user experience across devices. Future enhancements include adding a 5-day forecast and integrating geolocation for local weather detection.
